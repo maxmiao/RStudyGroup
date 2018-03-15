@@ -4,6 +4,13 @@ author: "Kirsten Gotting"
 date: "March 14, 2018"
 output: html_document
 ---
+# select: lets you pick column
+# filter: choose rows based on based on criteria 
+# mutate: create new columns 
+# joins(left_join): bring 2 table together 
+# summarize: create summary tables
+# group-by: assign catagory/groups based on a column 
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
